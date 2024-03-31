@@ -4,7 +4,7 @@ using Newtonsoft.Json;
 
 public class KuliahMahasiswa
 {
-    private string _fileName = "tp7_2_nim.json";
+    private string _fileName = "tp7_2_1302220013.json";
 
     public void ReadJSON()
     {
