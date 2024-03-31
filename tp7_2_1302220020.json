@@ -1,0 +1,32 @@
+{
+	"courses": [
+		{
+			"code": "CRI2C4",
+			"name": "Konstruksi Perangkat Lunak"
+		},
+		{
+			"code": "UWJXF2",
+			"name": "Kewirausahaan"
+		},
+		{
+			"code": "CII3B4",
+			"name": "Pemograman Beroirentasi Objek"
+		},
+		{
+			"code": "CRI2F2",
+			"name": "Proyek Tingkat II"
+		},
+		{
+			"code": "CRI2E4",
+			"name": "Basis Data"
+		},
+		{
+			"code": "CRI3J2",
+			"name": "Bahasa Inggris:Writing And Speaking"
+		},
+		{
+			"code": "CRJ2H3",
+			"name": "Pengalaman Pengguna"
+		}
+	]
+}
