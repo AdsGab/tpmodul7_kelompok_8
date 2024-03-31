@@ -28,6 +28,8 @@ class Program
 {
     static void Main(string[] args)
     {
+
         DataMahasiswa1302220053.ReadJson();
+        KuliahMahasiswa1302220053.ReadJson();
     }
 }
